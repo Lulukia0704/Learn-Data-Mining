@@ -20,8 +20,9 @@ The project aims to classify iris flower species using a Decision Tree classifie
 
 ## AI Support Explanation
 
-This project was supported by IBM Granite, a large language model (LLM) that helped:
-
-- Suggest the suitable classification method
-- Provide explanations for metrics such as accuracy, precision, recall, and confusion matrix
-- Guide the documentation process in markdown format
+Proyek ini didukung oleh **AI Assistant (ChatGPT)** untuk:
+- Menentukan metode klasifikasi yang cocok (Decision Tree)
+- Menyusun langkah-langkah analisis
+- Menjelaskan cara kerja confusion matrix
+- Menyusun penjelasan markdown dan insight
+- Membantu dokumentasi README.md
