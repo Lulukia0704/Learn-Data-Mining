@@ -18,11 +18,3 @@ The project aims to classify iris flower species using a Decision Tree classifie
 - Confusion Matrix shows very few misclassifications
 - Petal width and petal length are the most influential features
 
-## AI Support Explanation
-
-Proyek ini didukung oleh **AI Assistant (ChatGPT)** untuk:
-- Menentukan metode klasifikasi yang cocok (Decision Tree)
-- Menyusun langkah-langkah analisis
-- Menjelaskan cara kerja confusion matrix
-- Menyusun penjelasan markdown dan insight
-- Membantu dokumentasi README.md
